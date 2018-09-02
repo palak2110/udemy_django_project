@@ -11,5 +11,7 @@ Django (V. 2.0.2),
 PostgreSQL (V. 10)
 
 
+![screenshot from 2018-09-02 21-40-45](https://user-images.githubusercontent.com/29005781/44958193-288a2800-aefa-11e8-89b1-2c841f9ac023.png)
+![screenshot from 2018-09-02 21-40-48](https://user-images.githubusercontent.com/29005781/44958194-288a2800-aefa-11e8-8113-a0053d11cafc.png)
 
 
