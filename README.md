@@ -10,8 +10,6 @@ Python3,
 Django (V. 2.0.2),
 PostgreSQL (V. 10)
 
-![alt text](https://raw.githubusercontent.com/palak2110/udemy_django_project/screenshots/Screenshot from 2018-09-02 21-40-45.png)
-![alt text](https://raw.githubusercontent.com/palak2110/udemy_django_project/screenshots/Screenshot from 2018-09-02 21-40-48.png)
 
 
 
